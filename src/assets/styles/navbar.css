@@ -1,0 +1,18 @@
+.wrapper-nav {
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+  z-index: 10;
+  max-width: 100%;
+  top: 0;
+  box-sizing: border-box;
+  box-shadow: 2px 2px rgb(128, 99, 99);
+  background: white;
+  /* overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: 2px 2px rgb(128, 99, 99);
+  background: white; */
+}
